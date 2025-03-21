@@ -7,18 +7,9 @@ assignees: ''
 
 ---
 
----
-name: 'Task Creation Document '
-about: Clarity on the Task at Hand
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Task Owner (Responsible): Eric
 
-## Task Assignee (Accountable): Eric
+## Task Assignee (Accountable): 
 
 ## Task Deadline: [MM/DD/YYYY]
 
