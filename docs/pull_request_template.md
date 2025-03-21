@@ -3,7 +3,7 @@
 
 ## Link to Product Tracker
 
-*This will be a link to the issue you are specifically tasked with resolving.*
+*https://github.com/Yasjen7/newquiz/blob/develop/.github/ISSUE_TEMPLATE/task-creation-doc.md?plain=1*
 
 ## Link to Figma/Zeplin
 
@@ -16,7 +16,7 @@
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
+- [x] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
